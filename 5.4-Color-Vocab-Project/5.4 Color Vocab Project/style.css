@@ -1,0 +1,32 @@
+/* 2. Style each color title to match its meaning */
+#red {
+    color: red;
+  }
+  
+  #blue {
+    color: blue;
+  }
+  
+  #orange {
+    color: orange;
+  }
+  
+  #green {
+    color: green;
+  }
+  
+  #yellow {
+    color: yellow;
+  }
+  
+  /* 3. Change all color titles to have "font-weight: normal;" */
+  .color-title {
+    font-weight: normal;
+  }
+  
+  /* 4. Make all images 200px height and 200px width */
+  img {
+    width: 200px;
+    height: 200px;
+  }
+  
