@@ -1,6 +1,9 @@
 body {
-  text-align: center;
-  background-color: #283149;
+ text-align: center;
+  background: linear-gradient(180deg, #3a3a3a 0%, #000000 100%);
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 h1 {
@@ -17,30 +20,37 @@ footer {
 }
 
 .w {
+  background-image: url(images/tom1.png);
 
 }
 
 .a {
+  background-image: url(images/tom2.png);
 
 }
 
 .s {
 
+  background-image: url(images/tom3.png);
 }
 
 .d {
+  background-image: url(images/tom4.png);
 
 }
 
 .j {
+  background-image: url(images/snare.png);
 
 }
 
 .k {
+  background-image: url(images/crash.png);
 
 }
 
 .l {
+  background-image: url(images/kick.png);
 
 }
 
@@ -79,3 +89,13 @@ footer {
   margin: 10px;
   background-color: white;
 }
+
+.footer {
+  color: beige;
+  font-family: 'Poppins', sans-serif;
+  font-size: 2.5rem; /* Made it a bit bigger */
+  font-weight: bold; /* Bold text */
+  text-align: center;
+  margin-top: 50px;
+}
+
